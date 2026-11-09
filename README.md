@@ -48,24 +48,6 @@ dwes-catalogo-php/
 - `catalogo/datos.php`: conjunto de productos utilizados por la aplicación.
 - `catalogo/funciones.php`: funciones auxiliares para sanitización, búsquedas, filtros y precios.
 
-## Requisitos previos
-
-- XAMPP, WAMP o cualquier servidor local con PHP activo.
-- Navegador web moderno.
-- PHP 8 o superior.
-
-## Instalación y ejecución
-
-1. Copia el proyecto dentro de la carpeta `htdocs` de XAMPP o en la carpeta correspondiente de tu servidor local.
-2. Inicia Apache desde XAMPP.
-3. Abre el navegador y accede a la siguiente URL:
-
-```text
-http://localhost/dwes/dwes-catalogo-php/catalogo/index.php
-```
-
-Si la ruta del proyecto en tu equipo es distinta, adapta la URL según la ubicación exacta del proyecto.
-
 ## Uso
 
 ### Página principal
@@ -107,3 +89,22 @@ Este proyecto se ha desarrollado con fines educativos y de práctica en el desar
 ## Autor
 
 Manuel Hurtado Montllor
+
+## Instrucciones para XAMPP
+
+### Requisitos previos
+
+- XAMPP con PHP 8 o superior.
+- Navegador web moderno.
+
+### Instalación y ejecución
+
+1. Copia el proyecto dentro de la carpeta `htdocs` de XAMPP.
+2. Inicia Apache desde el panel de control de XAMPP.
+3. Abre el navegador y accede a la siguiente URL:
+
+```text
+http://localhost/dwes/dwes-catalogo-php/catalogo/index.php
+```
+
+Si la ruta del proyecto en tu equipo es distinta, adapta la URL según la ubicación exacta del proyecto.

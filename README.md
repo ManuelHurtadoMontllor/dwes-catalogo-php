@@ -108,3 +108,5 @@ http://localhost/dwes/dwes-catalogo-php/catalogo/index.php
 ```
 
 Si la ruta del proyecto en tu equipo es distinta, adapta la URL según la ubicación exacta del proyecto.
+
+# Instrucciones instalacion xampp

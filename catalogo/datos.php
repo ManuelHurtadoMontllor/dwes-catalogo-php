@@ -44,4 +44,7 @@ $productos = [
     ['id' => 14, 'nombre' => 'Gafas VR', 'categoria' => 'Wearables',
         'precio' => 299.00, 'stock' => 2, 'imagen' => 'https://placehold.co/400x250?text=Gafas+VR',
         'descripcion' => 'Gafas de realidad virtual autónomas.'],
+    ['id' => 15, 'nombre' => 'Webcam Full HD', 'categoria' => 'Informática',
+        'precio' => 49.90, 'stock' => 9, 'imagen' => 'https://placehold.co/400x250?text=Webcam',
+        'descripcion' => 'Webcam 1080p con micrófono integrado.'],
 ];

@@ -93,5 +93,9 @@ $categorias = categorias($productos);
             </div>
         <?php endif; ?>
     </main>
+    <footer class="text-center text-muted py-4">
+        Catálogo PHP · DWES · 2º DAM
+    </footer>
+    
 </body>
 </html>
